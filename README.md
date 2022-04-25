@@ -22,7 +22,7 @@ While packages provide a wide variety of functions, R becomes more powerful when
 
 Complete all questions in the `Week_07_Assignment.Rmd` file.
 
-1.  Open the [assignment URL](https://classroom.github.com/a/8DoUa_KP)
+1.  Open the [assignment URL](https://classroom.github.com/a/ClrGzqve)
 2.  Accept the assignment.
 3.  Open the newly created repository. It will be named `week-07-assignment-<YOUR GITHUB USERNAME>`.
 4.  Clone the repository to your local machine.
@@ -33,7 +33,7 @@ Complete all questions in the `Week_07_Assignment.Rmd` file.
 9.  Create an issue to indicate you're done.
 
 ## :clipboard: Survey
-If you feel it would be valuable, please take the [survey about this past week's class](https://docs.google.com/forms/d/e/1FAIpQLSfN3sOBG5PqiFdGUWO5IlUsNvcFYQQkPpBDfTATUhYkEzEWRQ/viewform).
+If you feel it would be valuable, please take the [survey about this past week's class](https://docs.google.com/forms/d/e/1FAIpQLScR2P6dSVe1d0vjL56WhWI3C6p83aZAxMJH9lWVTjAp1YLf5A/viewform).
 
 ## :books: Readings
 
