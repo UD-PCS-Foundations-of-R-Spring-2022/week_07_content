@@ -1,0 +1,77 @@
+---
+title: "Creating Functions"
+author: "Ryan Harrington"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 6 - Creating Functions
+While packages provide a wide variety of functions, R becomes more powerful when you begin to build your own functions. Topics covered will include:
+
+* Understand what functions are
+* Best practices for creating functions
+* Understand available tools for debugging functions
+* Building functions using non-standard evaluation using the embrace paradigm {{
+
+# Motivation
+Example of needing to create the same thing multiple times
+
+
+# Function structure
+
+## Review environment concept
+### Global vs Function environments
+
+## Syntax
+
+## Body
+
+## Naming
+### Best practices
+
+## Parameters
+### Implicit vs explicit
+### Default parameters
+### Pass through parameters `...`
+
+## Return
+### Implicit return
+### Explicit return
+### Returning multiple objects via named lists
+
+## Control structures
+### `if`...`else`
+### `stop`
+### `for`
+### `while`
+
+## Controlling inputs
+
+## Communicating with the user
+### Messages
+### Warnings
+### Errors
+
+
+# What is a function in R?
+Functional language - everything is a function!
+
+## Infix functions
+Familiar with many already
+### `<-`, `+`, `-`, `%in%`
+### Create your own by bounding with `%`
+
+# Debugging
+
+## Breakpoints
+## `debug` and `debugonce`
+## `browser`
+
+# Tidyverse style functions
+
+## Non standard evaluation
+## Brief intro to quosures
+## Embracing with `{{ }}`
